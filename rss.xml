@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 00:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 00:29:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>About... you know cool stuff and such</p></article>]]></description>
+            <link>https://thegrid.ai/glitch/e9179d8b-ab4a-4a2a-a831-331c04a30239/index.html</link>
+            <guid isPermaLink="false">e9179d8b-ab4a-4a2a-a831-331c04a30239</guid>
+            <pubDate>Thu, 07 Apr 2016 00:29:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdb69d9554ccdb62c983d5f1cf0a02fac25c5911.jpg" alt="" title="">]]></description>
