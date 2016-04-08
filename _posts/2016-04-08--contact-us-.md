@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Contact me people ;)
-datePublished: '2016-04-08T13:45:57.972Z'
-dateModified: '2016-04-08T13:44:53.407Z'
+datePublished: '2016-04-08T16:08:46.723Z'
+dateModified: '2016-04-08T16:06:51.612Z'
 title: Contact
 author: []
 sourcePath: _posts/2016-04-08--contact-us-.md
@@ -22,4 +22,6 @@ url: '-contact-us-/index.html'
 _type: Article
 
 ---
-Contact me people ;)
+For more info, or just to say hi, email us
+
+perfect.entropy.productions@gmail.com
