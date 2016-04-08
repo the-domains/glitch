@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:16:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Videos]]></title>
+            <description><![CDATA[<article><h1>Videos</h1><p>Watch videos of live performances from Glitch Artists.</p></article>]]></description>
+            <link>https://thegrid.ai/glitch/videos/index.html</link>
+            <guid isPermaLink="false">960a6f2f-6607-4775-ad70-3881e921d704</guid>
+            <pubDate>Fri, 08 Apr 2016 16:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>For more info, or just to say hi, email us</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=qKTGya6Yhtw&amp;nohtml5=False</link>
             <guid isPermaLink="false">9d59d565-366d-4cd2-a5a8-3f71c223411b</guid>
             <pubDate>Fri, 08 Apr 2016 13:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLITCH Berlin - More Black Then God]]></title>
-            <description><![CDATA[<article><h1>GLITCH Berlin - More Black Then God</h1><p>More Black Then God (Sean Derrick Cooper Marquardt) LIive at GLITCH Performance Filmed by Yuro Chain Performance from January 16, 2014 GLITCH # 2 at Platoon Kunsthalle Berlin For future GLITCH events and news: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbb133f95eb2e74637023be041f858c50e78c994.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_v5D5-oNazs&amp;nohtml5=False</link>
-            <guid isPermaLink="false">f3348587-586f-436b-bcf8-e7de743a0f8a</guid>
-            <pubDate>Fri, 08 Apr 2016 13:57:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
