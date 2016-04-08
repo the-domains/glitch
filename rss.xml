@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 14:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>For more info, or just to say hi, email us</p></article>]]></description>
+            <link>https://thegrid.ai/glitch/-contact-us-/index.html</link>
+            <guid isPermaLink="false">6b2ae0af-bbd8-4a16-8c60-b344006dba8f</guid>
+            <pubDate>Fri, 08 Apr 2016 16:08:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eiliyas]]></title>
             <description><![CDATA[<article><h1>Eiliyas</h1><p>Eiliyas </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7aee062-ee5f-4dc8-81d6-5840d60fbdfa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=_v5D5-oNazs&amp;nohtml5=False</link>
             <guid isPermaLink="false">f3348587-586f-436b-bcf8-e7de743a0f8a</guid>
             <pubDate>Fri, 08 Apr 2016 13:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLITCH Berlin - Lucas Gutierrez]]></title>
-            <description><![CDATA[<article><h1>GLITCH Berlin - Lucas Gutierrez</h1><p>Lucas Gutierrez Live performance from GLITCH Vol. 4 November 22, 2014 at Madame Claude Berlin FREE DOWNLOAD - GLITCH Compilation: https://symbioticcube.bandcamp.com/album/sc009-glitch For more about GLITCH: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe6efae9181401afe844907bf6de6e16abc9ced2.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=eLDeX6YsjuU&amp;nohtml5=False</link>
-            <guid isPermaLink="false">d034bda5-2b31-487f-936e-7af2dfe847a2</guid>
-            <pubDate>Fri, 08 Apr 2016 13:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
