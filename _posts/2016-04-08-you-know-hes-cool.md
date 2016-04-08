@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "You know he's cool"
-datePublished: '2016-04-08T13:18:10.330Z'
-dateModified: '2016-04-08T13:17:06.099Z'
-title: ''
+description: "Eiliyas\_"
+datePublished: '2016-04-08T13:50:44.455Z'
+dateModified: '2016-04-08T13:50:43.703Z'
+title: Eiliyas
 author: []
 authors: []
 publisher:
@@ -24,4 +24,4 @@ _type: Article
 ---
 Eiliyas ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7aee062-ee5f-4dc8-81d6-5840d60fbdfa.jpg)
 
-Eiliyas
+Eiliyas. I mean what can I say... this guy give the best hugs of anyone I have ever met!!! oh yeah and his hugs don't change your life his music will!
