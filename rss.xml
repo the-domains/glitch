@@ -4,8 +4,22 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 14:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 14:01:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Munsha]]></title>
+            <description><![CDATA[<article><h1>Munsha</h1><p>Munsha - She is Italian and plays Cello or some shit... the question is what part of this is the post and what part is like just the title and stuff</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6cfc1f4808e571e93af0778ee13d3af174302e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/glitch/munsha/index.html</link>
+            <guid isPermaLink="false">8670a608-cb0d-4632-b608-3ed0e9a64fe9</guid>
+            <pubDate>Fri, 08 Apr 2016 14:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Klaas von Karlos]]></title>
+            <description><![CDATA[<article><h1>Klaas von Karlos</h1><p>The Man behind it all... Klaas von Karlos brings the Glitch Family together by gathering the most creative and forward thinking artists working with organized sound</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/355a2b7418fd11cc20f056e71530f25af59cbe60.jpg"></article>]]></description>
+            <link>https://thegrid.ai/glitch/this-is-a-test/index.html</link>
+            <guid isPermaLink="false">54050638-b7f3-4141-9aaf-70127195d790</guid>
+            <pubDate>Fri, 08 Apr 2016 14:00:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GLITCH Berlin - Notstandskomitee]]></title>
             <description><![CDATA[<article><h1>GLITCH Berlin - Notstandskomitee</h1><p>Notstandskomitee Live Performance from GLITCH Vol.3 Redux May 30, 3014 - Loophole Berlin Edited by Jon-Carlos Evans For more on GLITCH, Compilation Download: https://symbioticcube.bandcamp.com/album/sc009-glitch Artist News/Events: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d40475a5ce2580936d9c028e6e83d596982729d.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=Yl1PkjmdZnw&amp;nohtml5=False</link>
             <guid isPermaLink="false">786e90e6-df64-4d71-a7cf-0299ab35197a</guid>
             <pubDate>Fri, 08 Apr 2016 13:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLITCH Berlin - RJ Thyme & Klaas von Karlos]]></title>
-            <description><![CDATA[<article><h1>GLITCH Berlin - RJ Thyme & Klaas von Karlos</h1><p>Klaas von Karlos (ReVerse Bullets) & RJ Thyme Live Collaboration Performance from GLITCH 9 - Madame Claude Berlin May 9, 215 Filmed by Lucas Gutierrez / Edited by Jon-Carlos Evans</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27edaa611abcdc045dbf39237db5fc5832f38d1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=W2w6E7BWNmQ</link>
-            <guid isPermaLink="false">7c83bf18-607f-48ff-a7cd-927a8b2a8910</guid>
-            <pubDate>Fri, 08 Apr 2016 13:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eiliyas]]></title>
-            <description><![CDATA[<article><h1>Eiliyas</h1><p>Eiliyas </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7aee062-ee5f-4dc8-81d6-5840d60fbdfa.jpg"></article>]]></description>
-            <link>https://thegrid.ai/glitch/you-know-hes-cool/index.html</link>
-            <guid isPermaLink="false">0071256b-7da7-4fc1-a773-d629f65f3db8</guid>
-            <pubDate>Fri, 08 Apr 2016 14:00:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
