@@ -17,8 +17,8 @@ keywords:
   - '4155'
   - ememe
 description: 'Klaas von Karlos (ReVerse Bullets) & RJ Thyme Live Collaboration Performance from GLITCH 9 - Madame Claude Berlin May 9, 215 Filmed by Lucas Gutierrez / Edited by Jon-Carlos Evans'
-datePublished: '2016-04-08T13:50:11.426Z'
-dateModified: '2016-04-08T13:49:53.001Z'
+datePublished: '2016-04-08T13:50:24.673Z'
+dateModified: '2016-04-08T13:50:20.577Z'
 author:
   - name: PerfectEntropy00
     url: 'https://www.youtube.com/user/PerfectEntropy00'
