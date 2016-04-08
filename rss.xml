@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 13:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 13:58:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GLITCH Berlin - Marialuisa Capurso & Rainbow Warrior]]></title>
+            <description><![CDATA[<article><h1>GLITCH Berlin - Marialuisa Capurso & Rainbow Warrior</h1><p>Marialuisa Capurso & Rainbow Warrior live at GLITCH 777 March 2015 - Normal Bar Berlin Filmed & Edited by Jon-Carlos For future GLITCH events and news: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61050329ea963c3a1ab8308e96b3dc40c2f04122.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zQiEZW-Brj8&amp;nohtml5=False</link>
+            <guid isPermaLink="false">c674af04-1d3e-4542-a794-1f7a19cd4f86</guid>
+            <pubDate>Fri, 08 Apr 2016 13:58:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GLITCH Berlin - Onyx Ashanti]]></title>
             <description><![CDATA[<article><h1>GLITCH Berlin - Onyx Ashanti</h1><p>Onyx Ashanti live at GLITCH Filmed by Yuro Chain // Edited by Jon-Carlos Evans Performance from Dec 20, 2013 GLITCH #1 at Platoon Kunsthalle Berlin For future GLITCH events and news: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd9355052ef17097f92079f2cffd4169594b398.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitch/ememe/index.html</link>
             <guid isPermaLink="false">4005c574-a8c1-40f9-ac14-27f38dde0f70</guid>
             <pubDate>Fri, 08 Apr 2016 13:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Contact me people ;)</p></article>]]></description>
-            <link>https://thegrid.ai/glitch/-contact-us-/index.html</link>
-            <guid isPermaLink="false">6b2ae0af-bbd8-4a16-8c60-b344006dba8f</guid>
-            <pubDate>Fri, 08 Apr 2016 13:45:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
