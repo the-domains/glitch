@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:39:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Store]]></title>
+            <description><![CDATA[<article><h1>Store</h1><p>Click on the picture or words or something and they should take you to the right places so you can enjoy owning some sick ass tunes</p></article>]]></description>
+            <link>https://thegrid.ai/glitch/store/index.html</link>
+            <guid isPermaLink="false">e236e7c2-2b39-418d-8563-312a82f05430</guid>
+            <pubDate>Fri, 08 Apr 2016 16:39:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Videos]]></title>
             <description><![CDATA[<article><h1>Videos</h1><p>Watch videos of live performances from Glitch Artists.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=J2u9Tsv-V0s&amp;nohtml5=False</link>
             <guid isPermaLink="false">ec21cade-f028-4931-8670-a46c62b10cc2</guid>
             <pubDate>Fri, 08 Apr 2016 13:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLITCH Berlin - LaMetaFisica]]></title>
-            <description><![CDATA[<article><h1>GLITCH Berlin - LaMetaFisica</h1><p>LaMetaFisica live at GLITCH Filmed by Jon-Carlos Evans Performance from January 16, 2014 GLITCH #777 at Normal Bar Berlin For future GLITCH events and news: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71ab5943f38d4ac023a093923229c8d803de68a0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=qKTGya6Yhtw&amp;nohtml5=False</link>
-            <guid isPermaLink="false">9d59d565-366d-4cd2-a5a8-3f71c223411b</guid>
-            <pubDate>Fri, 08 Apr 2016 13:57:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
