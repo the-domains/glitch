@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:50:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Videos]]></title>
+            <description><![CDATA[<article><h1>Videos</h1><p>Watch videos of live performances from Glitch Artists.</p></article>]]></description>
+            <link>https://thegrid.ai/glitch/videos/index.html</link>
+            <guid isPermaLink="false">960a6f2f-6607-4775-ad70-3881e921d704</guid>
+            <pubDate>Fri, 08 Apr 2016 16:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artists]]></title>
             <description><![CDATA[<article><h1>Artists</h1><p>Reverse Bullets</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/glitch/store/index.html</link>
             <guid isPermaLink="false">e236e7c2-2b39-418d-8563-312a82f05430</guid>
             <pubDate>Fri, 08 Apr 2016 16:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Videos]]></title>
-            <description><![CDATA[<article><h1>Videos</h1><p>Watch videos of live performances from Glitch Artists.</p></article>]]></description>
-            <link>https://thegrid.ai/glitch/videos/index.html</link>
-            <guid isPermaLink="false">960a6f2f-6607-4775-ad70-3881e921d704</guid>
-            <pubDate>Fri, 08 Apr 2016 16:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
