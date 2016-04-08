@@ -4,8 +4,15 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 13:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 13:49:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GLITCH Berlin - RJ Thyme & Klaas von Karlos]]></title>
+            <description><![CDATA[<article><h1>GLITCH Berlin - RJ Thyme & Klaas von Karlos</h1><p>Klaas von Karlos (ReVerse Bullets) & RJ Thyme Live Collaboration Performance from GLITCH 9 - Madame Claude Berlin May 9, 215 Filmed by Lucas Gutierrez / Edited by Jon-Carlos Evans</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=W2w6E7BWNmQ</link>
+            <guid isPermaLink="false">7c83bf18-607f-48ff-a7cd-927a8b2a8910</guid>
+            <pubDate>Fri, 08 Apr 2016 13:49:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7aee062-ee5f-4dc8-81d6-5840d60fbdfa.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitch/munsha/index.html</link>
             <guid isPermaLink="false">8670a608-cb0d-4632-b608-3ed0e9a64fe9</guid>
             <pubDate>Fri, 08 Apr 2016 13:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdb69d9554ccdb62c983d5f1cf0a02fac25c5911.jpg" alt="" title="">]]></description>
-            <link>https://www.facebook.com/108967623003/photos/a.10150897325303004.414655.108967623003/10153375711213004/?type=3&amp;theater</link>
-            <guid isPermaLink="false">a1749e45-cc02-4458-8e3a-eb00c87556e9</guid>
-            <pubDate>Thu, 07 Apr 2016 00:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
