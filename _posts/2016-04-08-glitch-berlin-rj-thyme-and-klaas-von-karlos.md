@@ -1,14 +1,10 @@
 ---
-author:
-  - name: PerfectEntropy00
-    url: 'https://www.youtube.com/user/PerfectEntropy00'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=W2w6E7BWNmQ'
+inLanguage: en
+starred: false
 keywords:
   - perfectentropy00
   - duration
@@ -21,7 +17,13 @@ keywords:
   - '4155'
   - ememe
 description: 'Klaas von Karlos (ReVerse Bullets) & RJ Thyme Live Collaboration Performance from GLITCH 9 - Madame Claude Berlin May 9, 215 Filmed by Lucas Gutierrez / Edited by Jon-Carlos Evans'
-inLanguage: en
+datePublished: '2016-04-08T13:50:11.426Z'
+dateModified: '2016-04-08T13:49:53.001Z'
+author:
+  - name: PerfectEntropy00
+    url: 'https://www.youtube.com/user/PerfectEntropy00'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=W2w6E7BWNmQ&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=W2w6E7BWNmQ'
 title: 'GLITCH Berlin - RJ Thyme & Klaas von Karlos'
-datePublished: '2016-04-08T13:49:14.300Z'
-dateModified: '2016-04-08T13:48:12.749Z'
 sourcePath: _posts/2016-04-08-glitch-berlin-rj-thyme-and-klaas-von-karlos.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
