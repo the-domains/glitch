@@ -4,15 +4,8 @@
         <description><![CDATA[Glitch]]></description>
         <link>https://thegrid.ai/glitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 13:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 13:59:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitch/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[GLITCH Berlin - Notstandskomitee]]></title>
-            <description><![CDATA[<article><h1>GLITCH Berlin - Notstandskomitee</h1><p>Notstandskomitee Live Performance from GLITCH Vol.3 Redux May 30, 3014 - Loophole Berlin Edited by Jon-Carlos Evans For more on GLITCH, Compilation Download: https://symbioticcube.bandcamp.com/album/sc009-glitch Artist News/Events: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d40475a5ce2580936d9c028e6e83d596982729d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=WyTd1ifodUc&amp;nohtml5=False</link>
-            <guid isPermaLink="false">d59281b6-f20c-4f1a-b809-90f2285c40c7</guid>
-            <pubDate>Fri, 08 Apr 2016 13:58:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[GLITCH Berlin - Infinite Livez]]></title>
             <description><![CDATA[<article><h1>GLITCH Berlin - Infinite Livez</h1><p>Infinitve Livez performance from GLITCH #4 Madame Claude Berlin - November 22, 2014 Filmed by Lucas Gutierrez / Edited by Jon-Carlos Evans LaMetaFisica live at GLITCH Filmed by Jon-Carlos Evans Performance from January 16, 2014 GLITCH #777 at Normal Bar Berlin For future GLITCH events and news: http://perfectentropy.tumblr.com/glitch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03da31a49e005ba65f987c12ca5ace3e77ebd116.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/glitch/you-know-hes-cool/index.html</link>
             <guid isPermaLink="false">0071256b-7da7-4fc1-a773-d629f65f3db8</guid>
             <pubDate>Fri, 08 Apr 2016 13:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Divian Rouge]]></title>
+            <description><![CDATA[<article><h1>Divian Rouge</h1><p>Divan Rouge</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a84f293-f523-449f-bca8-3736672f65d1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/glitch/divian-rouge/index.html</link>
+            <guid isPermaLink="false">0543ee10-3219-44f4-a193-0ebd1eca6350</guid>
+            <pubDate>Fri, 08 Apr 2016 13:12:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
