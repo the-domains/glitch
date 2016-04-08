@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Klaas von Karlos
-datePublished: '2016-04-08T12:54:42.181Z'
-dateModified: '2016-04-08T12:53:22.865Z'
-title: This is A Test
+description: ''
+datePublished: '2016-04-08T13:39:42.933Z'
+dateModified: '2016-04-08T13:39:09.785Z'
+title: Klaas von Karlos
 author: []
 authors: []
 publisher:
@@ -23,5 +23,7 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/619af5c8-44e8-49a4-9374-731ddbaa18cb.jpg)
+
+The Man behind it all... Klaas von Karlos brings the Glitch Family together by gathering some of the most 
 
 Klaas von Karlos
