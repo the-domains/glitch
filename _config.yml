@@ -1,6 +1,6 @@
 name: Glitch
 favicon: null
-layout_spectrum: 0.89286
+layout_spectrum: 0.25193
 typography_spectrum: 0.82764
 title: Glitch
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0100fb'
     - '#fdfc0c'
     - '#f10206'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
